@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a solution for one of the twelve challenges proposed in the Latin American Hackaton CoAfina 2024, which was developed by RCC. The group is conformed by three physics students from Yachay Tech. They are:
+This repository contains a solution for one of the twelve challenges proposed in the Latin American Hackaton CoAfina 2024. Said solution was developed by RCC, a group of three physics students from Yachay Tech university. They are:
 
 - Mariannly Marquez
 - Britney Robalino Ramírez
