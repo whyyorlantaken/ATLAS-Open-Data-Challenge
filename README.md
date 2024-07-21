@@ -1,4 +1,4 @@
-(English)
+_[English]_
 # Challenge: ATLAS Open Data
 
 ## Workgroup
@@ -13,5 +13,15 @@ In short, the problem consisted of choosing one (or more) of the notebooks liste
 
 ## Summary of the results
 
-(Español)
+_[Español]_
 # Reto: ATLAS Open Data
+
+## Grupo de trabajo
+Este repositorio contiene una posible solución para uno de los doce desafíos propuestos en el Hackaton Latinoamericano CoAfina 2024. Dicha solución fue desarrollada por RCC, un grupo de tres estudiantes de física de la universidad Yachay Tech. Son:
+
+-Mariannly Márquez
+-Britney Robalino Ramírez
+-Yorlan Males-Araujo
+
+## Problema
+En resumen, el problema consistía en elegir uno (o más) de los notebooks listados [aquí](https://nbviewer.org/github/atlas-outreach-data-tools/notebooks-collection-opendata/tree/master/13-TeV-examples/python/), y hacer que las partes de física y código sean más accesibles, por ejemplo, para un estudiante que no necesariamente esté tan familiarizado con los temas que abordan los notebooks. Esto podría hacerse ampliando la documentación agregando ecuaciones, referencias, diagramas y *explicaciones claras*. Además, se solicitó una buena traducción de la obra al español para no limitar el número de personas a las que se puede llegar.
