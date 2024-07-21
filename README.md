@@ -1,1 +1,3 @@
-# Challenge description
+# Challenge: ATLAS Open Data
+
+## Introduction
