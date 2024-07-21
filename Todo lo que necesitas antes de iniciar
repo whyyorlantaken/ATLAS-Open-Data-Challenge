@@ -1,0 +1,24 @@
+# Todo lo que necesitas antes de iniciar!
+
+## Instalación y Configuración de ROOT de CERN con Python y Cond
+
+Este tutorial te guiará a través de los pasos necesarios para instalar y configurar ROOT de CERN utilizando Python y Conda en tu computadora.
+
+## Paso 1: Instalar Anaconda (Conda)
+
+1. **Descargar Anaconda**:
+   - Ve a la página oficial de [Anaconda](https://www.anaconda.com/products/distribution#download-section).
+   - Descarga el instalador apropiado para tu sistema operativo (Windows, macOS o Linux).
+
+2. **Instalar Anaconda**:
+   - Sigue las instrucciones del instalador para tu sistema operativo. Asegúrate de agregar Anaconda a tu PATH si te lo pregunta durante la instalación.
+
+## Paso 2: Crear un Entorno Conda
+
+1. **Abrir Anaconda Prompt o Terminal**:
+   - En Windows, busca "Anaconda Prompt" en el menú de inicio.
+   - En macOS o Linux, abre una terminal.
+
+2. **Crear un nuevo entorno**:
+
+
