@@ -19,9 +19,9 @@ _[Español]_
 # Reto: ATLAS Open Data
 
 ## Grupo de trabajo
-Este repositorio contiene una posible solución para uno de los doce desafíos propuestos en el Hackaton Latinoamericano CoAfina 2024. Dicha solución fue desarrollada por RCC, un grupo de tres estudiantes de física de la universidad Yachay Tech. Son:
+Este repositorio contiene una posible solución para uno de los doce retos propuestos en el Hackaton Latinoamericano CoAfina 2024. Dicha solución fue desarrollada por RCC, un grupo de tres estudiantes de física de la universidad Yachay Tech. Son:
 
-- Mariannly Márquez
+- Mariannly Marquez
 - Britney Robalino Ramírez
 - Yorlan Males-Araujo
 
