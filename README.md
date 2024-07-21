@@ -13,6 +13,8 @@ In short, the problem consisted of choosing one (or more) of the notebooks liste
 
 ## Summary of the results
 
+---
+
 _[Español]_
 # Reto: ATLAS Open Data
 
