@@ -10,5 +10,4 @@ This repository contains a possible solution for one of the twelve challenges pr
 - Yorlan Males-Araujo
 
 ### Problem
-In short, the problem consisted of choosing one (or more) of the notebooks [here](https://nbviewer.org/github/atlas-outreach-data-tools/notebooks-collection-opendata/tree
-/master/13-TeV-examples/python/), and make the physics and code parts of it accessible for a student that might not necessarily be that familiar with the topics.
+In short, the problem consisted of choosing one (or more) of the notebooks [here](https://nbviewer.org/github/atlas-outreach-data-tools/notebooks-collection-opendata/tree/master/13-TeV-examples/python/), and make the physics and code parts of it accessible for a student that might not necessarily be that familiar with the topics.
